@@ -1,51 +1,50 @@
 # 🎮 Forward Assault AIO Tool
 
-A powerful all-in-one desktop utility for Forward Assault Remix, designed to simplify account management, credit editing, stat customization, and more — all packed into a modern, themed UI.
+Welcome to the last app you'll ever need for Forward Assault Remix. It’s like a Swiss Army knife, but instead of opening bottles, it opens stat sheets, flings credits, and gives your KD a makeover. No, it won't make you better at the game — but it will make your stats *look* like you are.
 
 ---
 
-## 🚀 Features
+## 🤖 What This App Does (a.k.a. Features)
 
-- 💰 **Credit Management**
-  - Add credits manually or on a loop
-  - Set custom or target credit values
-  - Cooldown timing options for safe execution
+- 💰 **Credit Launcher 9000™**
+  - Slam credits into your account like it owes you money.
+  - Set custom or “I’m feeling greedy” target credit values.
+  - Cooldowns included so you don’t melt the servers (or your conscience).
 
-- 📊 **Stat Editor**
-  - Modify kills, deaths, headshots, assists, wins/losses, and playtime
-  - Built-in input validation to avoid game-breaking values
+- 📊 **Stat Surgery**
+  - Edit kills, deaths, headshots, and all the ego metrics that matter.
+  - Comes with built-in sanity checks to keep you from becoming statistically immortal (we tried, trust us).
 
-- ⚙️ **Settings & Themes**
-  - Choose from built-in themes
-  - Toggle between dark and light modes
-  - Save credentials (AES encrypted)
-  - Reset to default with one click
+- 🧙‍♂️ **Theme Wizardry**
+  - Switch between themes because default is boring.
+  - Toggle dark mode to feel like a hacker in a movie from 1999.
+  - Save your login info with encryption strong enough to keep out your nosy little brother.
 
-- 📦 **Auto-Update Support**
-  - On launch, checks for updates via GitHub
-  - Downloads and launches new version installer if available
+- 🛸 **Auto-Updater (Space-Age Technology)**
+  - Launches, checks GitHub, downloads updates, and installs — like magic, but with more logs.
+  - May or may not trigger your Windows Defender into thinking it’s Skynet. False alarm.
 
-- 🖥️ **System Tray Mode**
-  - Run in the background and reopen anytime from the system tray
-  - Quick access to check credits and quit
+- 🖥️ **Tray Mode Ninja**
+  - App hides in your system tray like it’s on stealth mode.
+  - One click to reappear. Two clicks? Still one click, actually.
 
 ---
 
-## 🛠 Installation
+## 🛠 How to Install This Digital Sorcery
 
-> This tool is Windows-only.
+> This is a Windows-only party. Sorry Mac and Linux — maybe next season.
 
 1. [Download the latest `.exe` installer](https://github.com/pugking111/forward-assault-aio-tool/releases/latest)
-2. Run the installer and follow setup instructions.
-3. Launch the app and enjoy!
+2. Run the installer (double-click like a boss).
+3. Launch the app. Bask in its glow. Try not to giggle.
 
 ---
 
-## 🔄 Auto-Update System
+## 🔄 Auto-Updater: What Is This Sorcery?
 
-This app checks `version.json` hosted in this repository to determine whether a new version is available. If found, it downloads the latest `.exe` installer and prompts the user to install it.
+The app peeks at a magic file called `version.json` on GitHub. If it spots a newer version, it politely downloads the installer, then boots your current session out the back door.
 
-**version.json format:**
+**version.json (for those who code dangerously):**
 ```json
 {
   "version": "1.0.2",
