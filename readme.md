@@ -47,6 +47,6 @@ The app peeks at a magic file called `version.json` on GitHub. If it spots a new
 **version.json (for those who code dangerously):**
 ```json
 {
-  "version": "1.2.4",
-  "download_url": "https://github.com/pugking111/forward-assault-aio-tool/releases/latest/download/ForwardAssaultSetup_v1.2.4.exe"
+  "version": "1.3.5",
+  "download_url": "https://github.com/pugking111/forward-assault-aio-tool/releases/latest/download/ForwardAssaultSetup_v1.3.5.exe"
 }
